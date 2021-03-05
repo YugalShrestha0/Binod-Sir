@@ -1,0 +1,12 @@
+E:\College\Binod Sir\C#\Conditional\DisplayDay(Switch)\DisplayDay(Switch)\bin\Debug\netcoreapp3.1\DisplayDay(Switch).exe
+E:\College\Binod Sir\C#\Conditional\DisplayDay(Switch)\DisplayDay(Switch)\bin\Debug\netcoreapp3.1\DisplayDay(Switch).deps.json
+E:\College\Binod Sir\C#\Conditional\DisplayDay(Switch)\DisplayDay(Switch)\bin\Debug\netcoreapp3.1\DisplayDay(Switch).runtimeconfig.json
+E:\College\Binod Sir\C#\Conditional\DisplayDay(Switch)\DisplayDay(Switch)\bin\Debug\netcoreapp3.1\DisplayDay(Switch).runtimeconfig.dev.json
+E:\College\Binod Sir\C#\Conditional\DisplayDay(Switch)\DisplayDay(Switch)\bin\Debug\netcoreapp3.1\DisplayDay(Switch).dll
+E:\College\Binod Sir\C#\Conditional\DisplayDay(Switch)\DisplayDay(Switch)\bin\Debug\netcoreapp3.1\DisplayDay(Switch).pdb
+E:\College\Binod Sir\C#\Conditional\DisplayDay(Switch)\DisplayDay(Switch)\obj\Debug\netcoreapp3.1\DisplayDay(Switch).csproj.CoreCompileInputs.cache
+E:\College\Binod Sir\C#\Conditional\DisplayDay(Switch)\DisplayDay(Switch)\obj\Debug\netcoreapp3.1\DisplayDay(Switch).AssemblyInfoInputs.cache
+E:\College\Binod Sir\C#\Conditional\DisplayDay(Switch)\DisplayDay(Switch)\obj\Debug\netcoreapp3.1\DisplayDay(Switch).AssemblyInfo.cs
+E:\College\Binod Sir\C#\Conditional\DisplayDay(Switch)\DisplayDay(Switch)\obj\Debug\netcoreapp3.1\DisplayDay(Switch).dll
+E:\College\Binod Sir\C#\Conditional\DisplayDay(Switch)\DisplayDay(Switch)\obj\Debug\netcoreapp3.1\DisplayDay(Switch).pdb
+E:\College\Binod Sir\C#\Conditional\DisplayDay(Switch)\DisplayDay(Switch)\obj\Debug\netcoreapp3.1\DisplayDay(Switch).genruntimeconfig.cache

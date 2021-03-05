@@ -1,0 +1,10 @@
+E:\College\Binod Sir\C#\GUI\OddEvenByForm\OddEvenByForm\bin\Debug\OddEvenByForm.exe.config
+E:\College\Binod Sir\C#\GUI\OddEvenByForm\OddEvenByForm\bin\Debug\OddEvenByForm.exe
+E:\College\Binod Sir\C#\GUI\OddEvenByForm\OddEvenByForm\bin\Debug\OddEvenByForm.pdb
+E:\College\Binod Sir\C#\GUI\OddEvenByForm\OddEvenByForm\obj\Debug\OddEvenByForm.csprojAssemblyReference.cache
+E:\College\Binod Sir\C#\GUI\OddEvenByForm\OddEvenByForm\obj\Debug\OddEvenByForm.Form1.resources
+E:\College\Binod Sir\C#\GUI\OddEvenByForm\OddEvenByForm\obj\Debug\OddEvenByForm.Properties.Resources.resources
+E:\College\Binod Sir\C#\GUI\OddEvenByForm\OddEvenByForm\obj\Debug\OddEvenByForm.csproj.GenerateResource.cache
+E:\College\Binod Sir\C#\GUI\OddEvenByForm\OddEvenByForm\obj\Debug\OddEvenByForm.csproj.CoreCompileInputs.cache
+E:\College\Binod Sir\C#\GUI\OddEvenByForm\OddEvenByForm\obj\Debug\OddEvenByForm.exe
+E:\College\Binod Sir\C#\GUI\OddEvenByForm\OddEvenByForm\obj\Debug\OddEvenByForm.pdb

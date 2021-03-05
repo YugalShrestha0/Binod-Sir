@@ -1,0 +1,7 @@
+C:\Users\acer\Desktop\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+C:\Users\acer\Desktop\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe
+C:\Users\acer\Desktop\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.pdb
+C:\Users\acer\Desktop\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.exe
+C:\Users\acer\Desktop\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.pdb

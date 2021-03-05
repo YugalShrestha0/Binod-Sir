@@ -1,0 +1,12 @@
+E:\College\Binod Sir\C#\Conditional\DisplayDay\DisplayDay\bin\Debug\netcoreapp3.1\DisplayDay.exe
+E:\College\Binod Sir\C#\Conditional\DisplayDay\DisplayDay\bin\Debug\netcoreapp3.1\DisplayDay.deps.json
+E:\College\Binod Sir\C#\Conditional\DisplayDay\DisplayDay\bin\Debug\netcoreapp3.1\DisplayDay.runtimeconfig.json
+E:\College\Binod Sir\C#\Conditional\DisplayDay\DisplayDay\bin\Debug\netcoreapp3.1\DisplayDay.runtimeconfig.dev.json
+E:\College\Binod Sir\C#\Conditional\DisplayDay\DisplayDay\bin\Debug\netcoreapp3.1\DisplayDay.dll
+E:\College\Binod Sir\C#\Conditional\DisplayDay\DisplayDay\bin\Debug\netcoreapp3.1\DisplayDay.pdb
+E:\College\Binod Sir\C#\Conditional\DisplayDay\DisplayDay\obj\Debug\netcoreapp3.1\DisplayDay.csproj.CoreCompileInputs.cache
+E:\College\Binod Sir\C#\Conditional\DisplayDay\DisplayDay\obj\Debug\netcoreapp3.1\DisplayDay.AssemblyInfoInputs.cache
+E:\College\Binod Sir\C#\Conditional\DisplayDay\DisplayDay\obj\Debug\netcoreapp3.1\DisplayDay.AssemblyInfo.cs
+E:\College\Binod Sir\C#\Conditional\DisplayDay\DisplayDay\obj\Debug\netcoreapp3.1\DisplayDay.dll
+E:\College\Binod Sir\C#\Conditional\DisplayDay\DisplayDay\obj\Debug\netcoreapp3.1\DisplayDay.pdb
+E:\College\Binod Sir\C#\Conditional\DisplayDay\DisplayDay\obj\Debug\netcoreapp3.1\DisplayDay.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\acer\Desktop\ArrayGame\ArrayGame\bin\Debug\ArrayGame.exe.config
+C:\Users\acer\Desktop\ArrayGame\ArrayGame\bin\Debug\ArrayGame.exe
+C:\Users\acer\Desktop\ArrayGame\ArrayGame\bin\Debug\ArrayGame.pdb
+C:\Users\acer\Desktop\ArrayGame\ArrayGame\obj\Debug\ArrayGame.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\ArrayGame\ArrayGame\obj\Debug\ArrayGame.Form1.resources
+C:\Users\acer\Desktop\ArrayGame\ArrayGame\obj\Debug\ArrayGame.Properties.Resources.resources
+C:\Users\acer\Desktop\ArrayGame\ArrayGame\obj\Debug\ArrayGame.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\ArrayGame\ArrayGame\obj\Debug\ArrayGame.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\ArrayGame\ArrayGame\obj\Debug\ArrayGame.exe
+C:\Users\acer\Desktop\ArrayGame\ArrayGame\obj\Debug\ArrayGame.pdb

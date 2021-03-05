@@ -1,0 +1,13 @@
+E:\College\Binod Sir\C#\Menu Driven\AreaOfFourWall\AreaOfFourWall\bin\Debug\netcoreapp3.1\AreaOfFourWall.exe
+E:\College\Binod Sir\C#\Menu Driven\AreaOfFourWall\AreaOfFourWall\bin\Debug\netcoreapp3.1\AreaOfFourWall.deps.json
+E:\College\Binod Sir\C#\Menu Driven\AreaOfFourWall\AreaOfFourWall\bin\Debug\netcoreapp3.1\AreaOfFourWall.runtimeconfig.json
+E:\College\Binod Sir\C#\Menu Driven\AreaOfFourWall\AreaOfFourWall\bin\Debug\netcoreapp3.1\AreaOfFourWall.runtimeconfig.dev.json
+E:\College\Binod Sir\C#\Menu Driven\AreaOfFourWall\AreaOfFourWall\bin\Debug\netcoreapp3.1\AreaOfFourWall.dll
+E:\College\Binod Sir\C#\Menu Driven\AreaOfFourWall\AreaOfFourWall\bin\Debug\netcoreapp3.1\AreaOfFourWall.pdb
+E:\College\Binod Sir\C#\Menu Driven\AreaOfFourWall\AreaOfFourWall\obj\Debug\netcoreapp3.1\AreaOfFourWall.csprojAssemblyReference.cache
+E:\College\Binod Sir\C#\Menu Driven\AreaOfFourWall\AreaOfFourWall\obj\Debug\netcoreapp3.1\AreaOfFourWall.AssemblyInfoInputs.cache
+E:\College\Binod Sir\C#\Menu Driven\AreaOfFourWall\AreaOfFourWall\obj\Debug\netcoreapp3.1\AreaOfFourWall.AssemblyInfo.cs
+E:\College\Binod Sir\C#\Menu Driven\AreaOfFourWall\AreaOfFourWall\obj\Debug\netcoreapp3.1\AreaOfFourWall.csproj.CoreCompileInputs.cache
+E:\College\Binod Sir\C#\Menu Driven\AreaOfFourWall\AreaOfFourWall\obj\Debug\netcoreapp3.1\AreaOfFourWall.dll
+E:\College\Binod Sir\C#\Menu Driven\AreaOfFourWall\AreaOfFourWall\obj\Debug\netcoreapp3.1\AreaOfFourWall.pdb
+E:\College\Binod Sir\C#\Menu Driven\AreaOfFourWall\AreaOfFourWall\obj\Debug\netcoreapp3.1\AreaOfFourWall.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+E:\Binod Sir\C#\GUI\FirstApp\FirstApp\bin\Debug\FirstApp.exe.config
+E:\Binod Sir\C#\GUI\FirstApp\FirstApp\bin\Debug\FirstApp.exe
+E:\Binod Sir\C#\GUI\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
+E:\Binod Sir\C#\GUI\FirstApp\FirstApp\obj\Debug\FirstApp.csprojAssemblyReference.cache
+E:\Binod Sir\C#\GUI\FirstApp\FirstApp\obj\Debug\FirstApp.Form1.resources
+E:\Binod Sir\C#\GUI\FirstApp\FirstApp\obj\Debug\FirstApp.Properties.Resources.resources
+E:\Binod Sir\C#\GUI\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.GenerateResource.cache
+E:\Binod Sir\C#\GUI\FirstApp\FirstApp\obj\Debug\FirstApp.exe
+E:\Binod Sir\C#\GUI\FirstApp\FirstApp\obj\Debug\FirstApp.pdb

@@ -1,0 +1,6 @@
+F:\1 college\Binod Sir\C#\Array\TenNumberAndSum\TenNumberAndSum\bin\Debug\TenNumberAndSum.exe.config
+F:\1 college\Binod Sir\C#\Array\TenNumberAndSum\TenNumberAndSum\bin\Debug\TenNumberAndSum.exe
+F:\1 college\Binod Sir\C#\Array\TenNumberAndSum\TenNumberAndSum\bin\Debug\TenNumberAndSum.pdb
+F:\1 college\Binod Sir\C#\Array\TenNumberAndSum\TenNumberAndSum\obj\Debug\TenNumberAndSum.csproj.CoreCompileInputs.cache
+F:\1 college\Binod Sir\C#\Array\TenNumberAndSum\TenNumberAndSum\obj\Debug\TenNumberAndSum.exe
+F:\1 college\Binod Sir\C#\Array\TenNumberAndSum\TenNumberAndSum\obj\Debug\TenNumberAndSum.pdb

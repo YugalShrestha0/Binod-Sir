@@ -1,0 +1,11 @@
+E:\Binod Sir\C#\Variable\Area of room\Area of room\bin\Debug\netcoreapp3.1\Area of room.exe
+E:\Binod Sir\C#\Variable\Area of room\Area of room\bin\Debug\netcoreapp3.1\Area of room.deps.json
+E:\Binod Sir\C#\Variable\Area of room\Area of room\bin\Debug\netcoreapp3.1\Area of room.runtimeconfig.json
+E:\Binod Sir\C#\Variable\Area of room\Area of room\bin\Debug\netcoreapp3.1\Area of room.runtimeconfig.dev.json
+E:\Binod Sir\C#\Variable\Area of room\Area of room\bin\Debug\netcoreapp3.1\Area of room.dll
+E:\Binod Sir\C#\Variable\Area of room\Area of room\bin\Debug\netcoreapp3.1\Area of room.pdb
+E:\Binod Sir\C#\Variable\Area of room\Area of room\obj\Debug\netcoreapp3.1\Area of room.csprojAssemblyReference.cache
+E:\Binod Sir\C#\Variable\Area of room\Area of room\obj\Debug\netcoreapp3.1\Area of room.AssemblyInfoInputs.cache
+E:\Binod Sir\C#\Variable\Area of room\Area of room\obj\Debug\netcoreapp3.1\Area of room.AssemblyInfo.cs
+E:\Binod Sir\C#\Variable\Area of room\Area of room\obj\Debug\netcoreapp3.1\Area of room.dll
+E:\Binod Sir\C#\Variable\Area of room\Area of room\obj\Debug\netcoreapp3.1\Area of room.pdb

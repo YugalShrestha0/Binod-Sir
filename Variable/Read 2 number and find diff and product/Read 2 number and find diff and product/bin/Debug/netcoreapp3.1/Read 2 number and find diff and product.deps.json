@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Read 2 number and find diff and product/1.0.0": {
+        "runtime": {
+          "Read 2 number and find diff and product.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Read 2 number and find diff and product/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+E:\College\Binod Sir\C#\RandomVariable\RandomVariable\bin\Debug\RandomVariable.exe.config
+E:\College\Binod Sir\C#\RandomVariable\RandomVariable\bin\Debug\RandomVariable.exe
+E:\College\Binod Sir\C#\RandomVariable\RandomVariable\bin\Debug\RandomVariable.pdb
+E:\College\Binod Sir\C#\RandomVariable\RandomVariable\obj\Debug\RandomVariable.csprojAssemblyReference.cache
+E:\College\Binod Sir\C#\RandomVariable\RandomVariable\obj\Debug\RandomVariable.Form1.resources
+E:\College\Binod Sir\C#\RandomVariable\RandomVariable\obj\Debug\RandomVariable.Properties.Resources.resources
+E:\College\Binod Sir\C#\RandomVariable\RandomVariable\obj\Debug\RandomVariable.csproj.GenerateResource.cache
+E:\College\Binod Sir\C#\RandomVariable\RandomVariable\obj\Debug\RandomVariable.csproj.CoreCompileInputs.cache
+E:\College\Binod Sir\C#\RandomVariable\RandomVariable\obj\Debug\RandomVariable.exe
+E:\College\Binod Sir\C#\RandomVariable\RandomVariable\obj\Debug\RandomVariable.pdb

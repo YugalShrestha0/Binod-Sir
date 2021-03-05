@@ -1,0 +1,10 @@
+E:\Binod Sir\C#\GUI\NestedExample\NestedExample\bin\Debug\NestedExample.exe.config
+E:\Binod Sir\C#\GUI\NestedExample\NestedExample\bin\Debug\NestedExample.exe
+E:\Binod Sir\C#\GUI\NestedExample\NestedExample\bin\Debug\NestedExample.pdb
+E:\Binod Sir\C#\GUI\NestedExample\NestedExample\obj\Debug\NestedExample.csprojAssemblyReference.cache
+E:\Binod Sir\C#\GUI\NestedExample\NestedExample\obj\Debug\NestedExample.Form1.resources
+E:\Binod Sir\C#\GUI\NestedExample\NestedExample\obj\Debug\NestedExample.Properties.Resources.resources
+E:\Binod Sir\C#\GUI\NestedExample\NestedExample\obj\Debug\NestedExample.csproj.GenerateResource.cache
+E:\Binod Sir\C#\GUI\NestedExample\NestedExample\obj\Debug\NestedExample.csproj.CoreCompileInputs.cache
+E:\Binod Sir\C#\GUI\NestedExample\NestedExample\obj\Debug\NestedExample.exe
+E:\Binod Sir\C#\GUI\NestedExample\NestedExample\obj\Debug\NestedExample.pdb

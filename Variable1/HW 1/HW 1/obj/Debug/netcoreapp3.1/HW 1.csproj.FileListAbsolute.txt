@@ -1,0 +1,11 @@
+E:\Binod Sir\C#\Variable 2\HW 1\HW 1\bin\Debug\netcoreapp3.1\HW 1.exe
+E:\Binod Sir\C#\Variable 2\HW 1\HW 1\bin\Debug\netcoreapp3.1\HW 1.deps.json
+E:\Binod Sir\C#\Variable 2\HW 1\HW 1\bin\Debug\netcoreapp3.1\HW 1.runtimeconfig.json
+E:\Binod Sir\C#\Variable 2\HW 1\HW 1\bin\Debug\netcoreapp3.1\HW 1.runtimeconfig.dev.json
+E:\Binod Sir\C#\Variable 2\HW 1\HW 1\bin\Debug\netcoreapp3.1\HW 1.dll
+E:\Binod Sir\C#\Variable 2\HW 1\HW 1\bin\Debug\netcoreapp3.1\HW 1.pdb
+E:\Binod Sir\C#\Variable 2\HW 1\HW 1\obj\Debug\netcoreapp3.1\HW 1.csprojAssemblyReference.cache
+E:\Binod Sir\C#\Variable 2\HW 1\HW 1\obj\Debug\netcoreapp3.1\HW 1.AssemblyInfoInputs.cache
+E:\Binod Sir\C#\Variable 2\HW 1\HW 1\obj\Debug\netcoreapp3.1\HW 1.AssemblyInfo.cs
+E:\Binod Sir\C#\Variable 2\HW 1\HW 1\obj\Debug\netcoreapp3.1\HW 1.dll
+E:\Binod Sir\C#\Variable 2\HW 1\HW 1\obj\Debug\netcoreapp3.1\HW 1.pdb

@@ -1,0 +1,7 @@
+F:\1 college\Binod Sir\C#\Function\SimpleCalC\SimpleCalC\bin\Debug\SimpleCalC.exe.config
+F:\1 college\Binod Sir\C#\Function\SimpleCalC\SimpleCalC\bin\Debug\SimpleCalC.exe
+F:\1 college\Binod Sir\C#\Function\SimpleCalC\SimpleCalC\bin\Debug\SimpleCalC.pdb
+F:\1 college\Binod Sir\C#\Function\SimpleCalC\SimpleCalC\obj\Debug\SimpleCalC.csprojAssemblyReference.cache
+F:\1 college\Binod Sir\C#\Function\SimpleCalC\SimpleCalC\obj\Debug\SimpleCalC.csproj.CoreCompileInputs.cache
+F:\1 college\Binod Sir\C#\Function\SimpleCalC\SimpleCalC\obj\Debug\SimpleCalC.exe
+F:\1 college\Binod Sir\C#\Function\SimpleCalC\SimpleCalC\obj\Debug\SimpleCalC.pdb

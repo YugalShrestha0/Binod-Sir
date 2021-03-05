@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\3 Third Project\3 Third Project\bin\Debug\netcoreapp3.1\3 Third Project.exe
+C:\Users\ACER\source\repos\3 Third Project\3 Third Project\bin\Debug\netcoreapp3.1\3 Third Project.deps.json
+C:\Users\ACER\source\repos\3 Third Project\3 Third Project\bin\Debug\netcoreapp3.1\3 Third Project.runtimeconfig.json
+C:\Users\ACER\source\repos\3 Third Project\3 Third Project\bin\Debug\netcoreapp3.1\3 Third Project.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\3 Third Project\3 Third Project\bin\Debug\netcoreapp3.1\3 Third Project.dll
+C:\Users\ACER\source\repos\3 Third Project\3 Third Project\bin\Debug\netcoreapp3.1\3 Third Project.pdb
+C:\Users\ACER\source\repos\3 Third Project\3 Third Project\obj\Debug\netcoreapp3.1\3 Third Project.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\3 Third Project\3 Third Project\obj\Debug\netcoreapp3.1\3 Third Project.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\3 Third Project\3 Third Project\obj\Debug\netcoreapp3.1\3 Third Project.AssemblyInfo.cs
+C:\Users\ACER\source\repos\3 Third Project\3 Third Project\obj\Debug\netcoreapp3.1\3 Third Project.dll
+C:\Users\ACER\source\repos\3 Third Project\3 Third Project\obj\Debug\netcoreapp3.1\3 Third Project.pdb

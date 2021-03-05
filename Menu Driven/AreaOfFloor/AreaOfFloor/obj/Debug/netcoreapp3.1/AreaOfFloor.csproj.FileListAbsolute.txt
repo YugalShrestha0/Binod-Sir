@@ -1,0 +1,13 @@
+E:\College\Binod Sir\C#\Menu Driven\AreaOfFloor\AreaOfFloor\bin\Debug\netcoreapp3.1\AreaOfFloor.exe
+E:\College\Binod Sir\C#\Menu Driven\AreaOfFloor\AreaOfFloor\bin\Debug\netcoreapp3.1\AreaOfFloor.deps.json
+E:\College\Binod Sir\C#\Menu Driven\AreaOfFloor\AreaOfFloor\bin\Debug\netcoreapp3.1\AreaOfFloor.runtimeconfig.json
+E:\College\Binod Sir\C#\Menu Driven\AreaOfFloor\AreaOfFloor\bin\Debug\netcoreapp3.1\AreaOfFloor.runtimeconfig.dev.json
+E:\College\Binod Sir\C#\Menu Driven\AreaOfFloor\AreaOfFloor\bin\Debug\netcoreapp3.1\AreaOfFloor.dll
+E:\College\Binod Sir\C#\Menu Driven\AreaOfFloor\AreaOfFloor\bin\Debug\netcoreapp3.1\AreaOfFloor.pdb
+E:\College\Binod Sir\C#\Menu Driven\AreaOfFloor\AreaOfFloor\obj\Debug\netcoreapp3.1\AreaOfFloor.csprojAssemblyReference.cache
+E:\College\Binod Sir\C#\Menu Driven\AreaOfFloor\AreaOfFloor\obj\Debug\netcoreapp3.1\AreaOfFloor.AssemblyInfoInputs.cache
+E:\College\Binod Sir\C#\Menu Driven\AreaOfFloor\AreaOfFloor\obj\Debug\netcoreapp3.1\AreaOfFloor.AssemblyInfo.cs
+E:\College\Binod Sir\C#\Menu Driven\AreaOfFloor\AreaOfFloor\obj\Debug\netcoreapp3.1\AreaOfFloor.csproj.CoreCompileInputs.cache
+E:\College\Binod Sir\C#\Menu Driven\AreaOfFloor\AreaOfFloor\obj\Debug\netcoreapp3.1\AreaOfFloor.dll
+E:\College\Binod Sir\C#\Menu Driven\AreaOfFloor\AreaOfFloor\obj\Debug\netcoreapp3.1\AreaOfFloor.pdb
+E:\College\Binod Sir\C#\Menu Driven\AreaOfFloor\AreaOfFloor\obj\Debug\netcoreapp3.1\AreaOfFloor.genruntimeconfig.cache

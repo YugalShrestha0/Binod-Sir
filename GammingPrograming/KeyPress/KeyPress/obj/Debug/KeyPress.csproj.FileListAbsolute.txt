@@ -1,0 +1,11 @@
+E:\College\Binod Sir\C#\Gamming programing\KeyPress\KeyPress\bin\Debug\KeyPress.exe.config
+E:\College\Binod Sir\C#\Gamming programing\KeyPress\KeyPress\bin\Debug\KeyPress.exe
+E:\College\Binod Sir\C#\Gamming programing\KeyPress\KeyPress\bin\Debug\KeyPress.pdb
+E:\College\Binod Sir\C#\Gamming programing\KeyPress\KeyPress\obj\Debug\KeyPress.csprojAssemblyReference.cache
+E:\College\Binod Sir\C#\Gamming programing\KeyPress\KeyPress\obj\Debug\KeyPress.Form1.resources
+E:\College\Binod Sir\C#\Gamming programing\KeyPress\KeyPress\obj\Debug\KeyPress.Properties.Resources.resources
+E:\College\Binod Sir\C#\Gamming programing\KeyPress\KeyPress\obj\Debug\KeyPress.csproj.GenerateResource.cache
+E:\College\Binod Sir\C#\Gamming programing\KeyPress\KeyPress\obj\Debug\KeyPress.csproj.CoreCompileInputs.cache
+E:\College\Binod Sir\C#\Gamming programing\KeyPress\KeyPress\obj\Debug\KeyPress.exe
+E:\College\Binod Sir\C#\Gamming programing\KeyPress\KeyPress\obj\Debug\KeyPress.pdb
+E:\College\Binod Sir\C#\Gamming programing\KeyPress\KeyPress\obj\Debug\KeyPress.KeyPressDirectFromKeyboard.resources

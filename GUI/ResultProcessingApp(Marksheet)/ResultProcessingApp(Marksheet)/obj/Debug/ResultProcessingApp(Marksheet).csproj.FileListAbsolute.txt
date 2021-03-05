@@ -1,0 +1,10 @@
+E:\College\Binod Sir\C#\GUI\ResultProcessingApp(Marksheet)\ResultProcessingApp(Marksheet)\bin\Debug\ResultProcessingApp(Marksheet).exe.config
+E:\College\Binod Sir\C#\GUI\ResultProcessingApp(Marksheet)\ResultProcessingApp(Marksheet)\bin\Debug\ResultProcessingApp(Marksheet).exe
+E:\College\Binod Sir\C#\GUI\ResultProcessingApp(Marksheet)\ResultProcessingApp(Marksheet)\bin\Debug\ResultProcessingApp(Marksheet).pdb
+E:\College\Binod Sir\C#\GUI\ResultProcessingApp(Marksheet)\ResultProcessingApp(Marksheet)\obj\Debug\ResultProcessingApp_Marksheet_.Form1.resources
+E:\College\Binod Sir\C#\GUI\ResultProcessingApp(Marksheet)\ResultProcessingApp(Marksheet)\obj\Debug\ResultProcessingApp_Marksheet_.Properties.Resources.resources
+E:\College\Binod Sir\C#\GUI\ResultProcessingApp(Marksheet)\ResultProcessingApp(Marksheet)\obj\Debug\ResultProcessingApp(Marksheet).csproj.GenerateResource.cache
+E:\College\Binod Sir\C#\GUI\ResultProcessingApp(Marksheet)\ResultProcessingApp(Marksheet)\obj\Debug\ResultProcessingApp(Marksheet).csproj.CoreCompileInputs.cache
+E:\College\Binod Sir\C#\GUI\ResultProcessingApp(Marksheet)\ResultProcessingApp(Marksheet)\obj\Debug\ResultProcessingApp(Marksheet).exe
+E:\College\Binod Sir\C#\GUI\ResultProcessingApp(Marksheet)\ResultProcessingApp(Marksheet)\obj\Debug\ResultProcessingApp(Marksheet).pdb
+E:\College\Binod Sir\C#\GUI\ResultProcessingApp(Marksheet)\ResultProcessingApp(Marksheet)\obj\Debug\ResultProcessingApp(Marksheet).csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+F:\1 college\College\Binod Sir\C#\New Function\3NumAndReturnValue\3NumAndReturnValue\bin\Debug\3NumAndReturnValue.exe.config
+F:\1 college\College\Binod Sir\C#\New Function\3NumAndReturnValue\3NumAndReturnValue\bin\Debug\3NumAndReturnValue.exe
+F:\1 college\College\Binod Sir\C#\New Function\3NumAndReturnValue\3NumAndReturnValue\bin\Debug\3NumAndReturnValue.pdb
+F:\1 college\College\Binod Sir\C#\New Function\3NumAndReturnValue\3NumAndReturnValue\obj\Debug\3NumAndReturnValue.csproj.CoreCompileInputs.cache
+F:\1 college\College\Binod Sir\C#\New Function\3NumAndReturnValue\3NumAndReturnValue\obj\Debug\3NumAndReturnValue.exe
+F:\1 college\College\Binod Sir\C#\New Function\3NumAndReturnValue\3NumAndReturnValue\obj\Debug\3NumAndReturnValue.pdb
+F:\1 college\College\Binod Sir\C#\New Function\3NumAndReturnValue\3NumAndReturnValue\obj\Debug\3NumAndReturnValue.csprojAssemblyReference.cache

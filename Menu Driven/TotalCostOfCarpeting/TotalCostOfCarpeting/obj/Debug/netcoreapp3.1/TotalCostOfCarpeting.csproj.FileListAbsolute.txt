@@ -1,0 +1,13 @@
+E:\College\Binod Sir\C#\Menu Driven\TotalCostOfCarpeting\TotalCostOfCarpeting\bin\Debug\netcoreapp3.1\TotalCostOfCarpeting.exe
+E:\College\Binod Sir\C#\Menu Driven\TotalCostOfCarpeting\TotalCostOfCarpeting\bin\Debug\netcoreapp3.1\TotalCostOfCarpeting.deps.json
+E:\College\Binod Sir\C#\Menu Driven\TotalCostOfCarpeting\TotalCostOfCarpeting\bin\Debug\netcoreapp3.1\TotalCostOfCarpeting.runtimeconfig.json
+E:\College\Binod Sir\C#\Menu Driven\TotalCostOfCarpeting\TotalCostOfCarpeting\bin\Debug\netcoreapp3.1\TotalCostOfCarpeting.runtimeconfig.dev.json
+E:\College\Binod Sir\C#\Menu Driven\TotalCostOfCarpeting\TotalCostOfCarpeting\bin\Debug\netcoreapp3.1\TotalCostOfCarpeting.dll
+E:\College\Binod Sir\C#\Menu Driven\TotalCostOfCarpeting\TotalCostOfCarpeting\bin\Debug\netcoreapp3.1\TotalCostOfCarpeting.pdb
+E:\College\Binod Sir\C#\Menu Driven\TotalCostOfCarpeting\TotalCostOfCarpeting\obj\Debug\netcoreapp3.1\TotalCostOfCarpeting.csprojAssemblyReference.cache
+E:\College\Binod Sir\C#\Menu Driven\TotalCostOfCarpeting\TotalCostOfCarpeting\obj\Debug\netcoreapp3.1\TotalCostOfCarpeting.AssemblyInfoInputs.cache
+E:\College\Binod Sir\C#\Menu Driven\TotalCostOfCarpeting\TotalCostOfCarpeting\obj\Debug\netcoreapp3.1\TotalCostOfCarpeting.AssemblyInfo.cs
+E:\College\Binod Sir\C#\Menu Driven\TotalCostOfCarpeting\TotalCostOfCarpeting\obj\Debug\netcoreapp3.1\TotalCostOfCarpeting.csproj.CoreCompileInputs.cache
+E:\College\Binod Sir\C#\Menu Driven\TotalCostOfCarpeting\TotalCostOfCarpeting\obj\Debug\netcoreapp3.1\TotalCostOfCarpeting.dll
+E:\College\Binod Sir\C#\Menu Driven\TotalCostOfCarpeting\TotalCostOfCarpeting\obj\Debug\netcoreapp3.1\TotalCostOfCarpeting.pdb
+E:\College\Binod Sir\C#\Menu Driven\TotalCostOfCarpeting\TotalCostOfCarpeting\obj\Debug\netcoreapp3.1\TotalCostOfCarpeting.genruntimeconfig.cache

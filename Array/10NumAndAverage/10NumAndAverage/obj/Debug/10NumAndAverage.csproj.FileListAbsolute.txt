@@ -1,0 +1,7 @@
+F:\1 college\Binod Sir\C#\Array\10NumAndAverage\10NumAndAverage\obj\Debug\10NumAndAverage.csprojAssemblyReference.cache
+F:\1 college\Binod Sir\C#\Array\10NumAndAverage\10NumAndAverage\obj\Debug\10NumAndAverage.csproj.CoreCompileInputs.cache
+F:\1 college\Binod Sir\C#\Array\10NumAndAverage\10NumAndAverage\bin\Debug\10NumAndAverage.exe.config
+F:\1 college\Binod Sir\C#\Array\10NumAndAverage\10NumAndAverage\bin\Debug\10NumAndAverage.exe
+F:\1 college\Binod Sir\C#\Array\10NumAndAverage\10NumAndAverage\bin\Debug\10NumAndAverage.pdb
+F:\1 college\Binod Sir\C#\Array\10NumAndAverage\10NumAndAverage\obj\Debug\10NumAndAverage.exe
+F:\1 college\Binod Sir\C#\Array\10NumAndAverage\10NumAndAverage\obj\Debug\10NumAndAverage.pdb

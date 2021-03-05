@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\4 Fourth Project\4 Fourth Project\bin\Debug\netcoreapp3.1\4 Fourth Project.exe
+C:\Users\ACER\source\repos\4 Fourth Project\4 Fourth Project\bin\Debug\netcoreapp3.1\4 Fourth Project.deps.json
+C:\Users\ACER\source\repos\4 Fourth Project\4 Fourth Project\bin\Debug\netcoreapp3.1\4 Fourth Project.runtimeconfig.json
+C:\Users\ACER\source\repos\4 Fourth Project\4 Fourth Project\bin\Debug\netcoreapp3.1\4 Fourth Project.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\4 Fourth Project\4 Fourth Project\bin\Debug\netcoreapp3.1\4 Fourth Project.dll
+C:\Users\ACER\source\repos\4 Fourth Project\4 Fourth Project\bin\Debug\netcoreapp3.1\4 Fourth Project.pdb
+C:\Users\ACER\source\repos\4 Fourth Project\4 Fourth Project\obj\Debug\netcoreapp3.1\4 Fourth Project.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\4 Fourth Project\4 Fourth Project\obj\Debug\netcoreapp3.1\4 Fourth Project.AssemblyInfo.cs
+C:\Users\ACER\source\repos\4 Fourth Project\4 Fourth Project\obj\Debug\netcoreapp3.1\4 Fourth Project.dll
+C:\Users\ACER\source\repos\4 Fourth Project\4 Fourth Project\obj\Debug\netcoreapp3.1\4 Fourth Project.pdb

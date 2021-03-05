@@ -1,0 +1,7 @@
+F:\1 college\Binod Sir\C#\Array\Marksheet\Marksheet\bin\Debug\Marksheet.exe.config
+F:\1 college\Binod Sir\C#\Array\Marksheet\Marksheet\bin\Debug\Marksheet.exe
+F:\1 college\Binod Sir\C#\Array\Marksheet\Marksheet\bin\Debug\Marksheet.pdb
+F:\1 college\Binod Sir\C#\Array\Marksheet\Marksheet\obj\Debug\Marksheet.csprojAssemblyReference.cache
+F:\1 college\Binod Sir\C#\Array\Marksheet\Marksheet\obj\Debug\Marksheet.csproj.CoreCompileInputs.cache
+F:\1 college\Binod Sir\C#\Array\Marksheet\Marksheet\obj\Debug\Marksheet.exe
+F:\1 college\Binod Sir\C#\Array\Marksheet\Marksheet\obj\Debug\Marksheet.pdb

@@ -1,0 +1,11 @@
+E:\Binod Sir\C#\Variable\HW 13th March\Area nad circumference of the circle\Area nad circumference of the circle\bin\Debug\netcoreapp3.1\Area nad circumference of the circle.exe
+E:\Binod Sir\C#\Variable\HW 13th March\Area nad circumference of the circle\Area nad circumference of the circle\bin\Debug\netcoreapp3.1\Area nad circumference of the circle.deps.json
+E:\Binod Sir\C#\Variable\HW 13th March\Area nad circumference of the circle\Area nad circumference of the circle\bin\Debug\netcoreapp3.1\Area nad circumference of the circle.runtimeconfig.json
+E:\Binod Sir\C#\Variable\HW 13th March\Area nad circumference of the circle\Area nad circumference of the circle\bin\Debug\netcoreapp3.1\Area nad circumference of the circle.runtimeconfig.dev.json
+E:\Binod Sir\C#\Variable\HW 13th March\Area nad circumference of the circle\Area nad circumference of the circle\bin\Debug\netcoreapp3.1\Area nad circumference of the circle.dll
+E:\Binod Sir\C#\Variable\HW 13th March\Area nad circumference of the circle\Area nad circumference of the circle\bin\Debug\netcoreapp3.1\Area nad circumference of the circle.pdb
+E:\Binod Sir\C#\Variable\HW 13th March\Area nad circumference of the circle\Area nad circumference of the circle\obj\Debug\netcoreapp3.1\Area nad circumference of the circle.csprojAssemblyReference.cache
+E:\Binod Sir\C#\Variable\HW 13th March\Area nad circumference of the circle\Area nad circumference of the circle\obj\Debug\netcoreapp3.1\Area nad circumference of the circle.AssemblyInfoInputs.cache
+E:\Binod Sir\C#\Variable\HW 13th March\Area nad circumference of the circle\Area nad circumference of the circle\obj\Debug\netcoreapp3.1\Area nad circumference of the circle.AssemblyInfo.cs
+E:\Binod Sir\C#\Variable\HW 13th March\Area nad circumference of the circle\Area nad circumference of the circle\obj\Debug\netcoreapp3.1\Area nad circumference of the circle.dll
+E:\Binod Sir\C#\Variable\HW 13th March\Area nad circumference of the circle\Area nad circumference of the circle\obj\Debug\netcoreapp3.1\Area nad circumference of the circle.pdb

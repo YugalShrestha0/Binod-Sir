@@ -1,0 +1,10 @@
+E:\Binod Sir\C#\Variable 2\HW 3\HW 3\bin\Debug\netcoreapp3.1\HW 3.exe
+E:\Binod Sir\C#\Variable 2\HW 3\HW 3\bin\Debug\netcoreapp3.1\HW 3.deps.json
+E:\Binod Sir\C#\Variable 2\HW 3\HW 3\bin\Debug\netcoreapp3.1\HW 3.runtimeconfig.json
+E:\Binod Sir\C#\Variable 2\HW 3\HW 3\bin\Debug\netcoreapp3.1\HW 3.runtimeconfig.dev.json
+E:\Binod Sir\C#\Variable 2\HW 3\HW 3\bin\Debug\netcoreapp3.1\HW 3.dll
+E:\Binod Sir\C#\Variable 2\HW 3\HW 3\bin\Debug\netcoreapp3.1\HW 3.pdb
+E:\Binod Sir\C#\Variable 2\HW 3\HW 3\obj\Debug\netcoreapp3.1\HW 3.AssemblyInfoInputs.cache
+E:\Binod Sir\C#\Variable 2\HW 3\HW 3\obj\Debug\netcoreapp3.1\HW 3.AssemblyInfo.cs
+E:\Binod Sir\C#\Variable 2\HW 3\HW 3\obj\Debug\netcoreapp3.1\HW 3.dll
+E:\Binod Sir\C#\Variable 2\HW 3\HW 3\obj\Debug\netcoreapp3.1\HW 3.pdb

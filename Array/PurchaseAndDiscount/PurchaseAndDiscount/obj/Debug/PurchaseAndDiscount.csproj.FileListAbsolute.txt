@@ -1,0 +1,7 @@
+C:\Users\acer\Desktop\college\Binod\C#\Array\PurchaseAndDiscount\PurchaseAndDiscount\bin\Debug\PurchaseAndDiscount.exe.config
+C:\Users\acer\Desktop\college\Binod\C#\Array\PurchaseAndDiscount\PurchaseAndDiscount\bin\Debug\PurchaseAndDiscount.exe
+C:\Users\acer\Desktop\college\Binod\C#\Array\PurchaseAndDiscount\PurchaseAndDiscount\bin\Debug\PurchaseAndDiscount.pdb
+C:\Users\acer\Desktop\college\Binod\C#\Array\PurchaseAndDiscount\PurchaseAndDiscount\obj\Debug\PurchaseAndDiscount.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\college\Binod\C#\Array\PurchaseAndDiscount\PurchaseAndDiscount\obj\Debug\PurchaseAndDiscount.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\college\Binod\C#\Array\PurchaseAndDiscount\PurchaseAndDiscount\obj\Debug\PurchaseAndDiscount.exe
+C:\Users\acer\Desktop\college\Binod\C#\Array\PurchaseAndDiscount\PurchaseAndDiscount\obj\Debug\PurchaseAndDiscount.pdb

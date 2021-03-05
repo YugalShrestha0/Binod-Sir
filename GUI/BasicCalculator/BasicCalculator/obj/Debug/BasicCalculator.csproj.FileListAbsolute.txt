@@ -1,0 +1,10 @@
+E:\Binod Sir\C#\GUI\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe.config
+E:\Binod Sir\C#\GUI\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe
+E:\Binod Sir\C#\GUI\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.pdb
+E:\Binod Sir\C#\GUI\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csprojAssemblyReference.cache
+E:\Binod Sir\C#\GUI\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.Form1.resources
+E:\Binod Sir\C#\GUI\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.Properties.Resources.resources
+E:\Binod Sir\C#\GUI\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.GenerateResource.cache
+E:\Binod Sir\C#\GUI\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.exe
+E:\Binod Sir\C#\GUI\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.pdb
+E:\Binod Sir\C#\GUI\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.CoreCompileInputs.cache

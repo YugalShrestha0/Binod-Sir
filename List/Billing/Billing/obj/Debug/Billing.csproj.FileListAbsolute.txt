@@ -1,0 +1,7 @@
+F:\1 college\College\Binod Sir\C#\List\Billing\Billing\bin\Debug\Billing.exe.config
+F:\1 college\College\Binod Sir\C#\List\Billing\Billing\bin\Debug\Billing.exe
+F:\1 college\College\Binod Sir\C#\List\Billing\Billing\bin\Debug\Billing.pdb
+F:\1 college\College\Binod Sir\C#\List\Billing\Billing\obj\Debug\Billing.csprojAssemblyReference.cache
+F:\1 college\College\Binod Sir\C#\List\Billing\Billing\obj\Debug\Billing.csproj.CoreCompileInputs.cache
+F:\1 college\College\Binod Sir\C#\List\Billing\Billing\obj\Debug\Billing.exe
+F:\1 college\College\Binod Sir\C#\List\Billing\Billing\obj\Debug\Billing.pdb

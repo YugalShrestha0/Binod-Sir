@@ -1,0 +1,13 @@
+E:\College\Binod Sir\C#\Conditional\DiscountMart\DiscountMart\bin\Debug\netcoreapp3.1\DiscountMart.exe
+E:\College\Binod Sir\C#\Conditional\DiscountMart\DiscountMart\bin\Debug\netcoreapp3.1\DiscountMart.deps.json
+E:\College\Binod Sir\C#\Conditional\DiscountMart\DiscountMart\bin\Debug\netcoreapp3.1\DiscountMart.runtimeconfig.json
+E:\College\Binod Sir\C#\Conditional\DiscountMart\DiscountMart\bin\Debug\netcoreapp3.1\DiscountMart.runtimeconfig.dev.json
+E:\College\Binod Sir\C#\Conditional\DiscountMart\DiscountMart\bin\Debug\netcoreapp3.1\DiscountMart.dll
+E:\College\Binod Sir\C#\Conditional\DiscountMart\DiscountMart\bin\Debug\netcoreapp3.1\DiscountMart.pdb
+E:\College\Binod Sir\C#\Conditional\DiscountMart\DiscountMart\obj\Debug\netcoreapp3.1\DiscountMart.csprojAssemblyReference.cache
+E:\College\Binod Sir\C#\Conditional\DiscountMart\DiscountMart\obj\Debug\netcoreapp3.1\DiscountMart.AssemblyInfoInputs.cache
+E:\College\Binod Sir\C#\Conditional\DiscountMart\DiscountMart\obj\Debug\netcoreapp3.1\DiscountMart.AssemblyInfo.cs
+E:\College\Binod Sir\C#\Conditional\DiscountMart\DiscountMart\obj\Debug\netcoreapp3.1\DiscountMart.csproj.CoreCompileInputs.cache
+E:\College\Binod Sir\C#\Conditional\DiscountMart\DiscountMart\obj\Debug\netcoreapp3.1\DiscountMart.dll
+E:\College\Binod Sir\C#\Conditional\DiscountMart\DiscountMart\obj\Debug\netcoreapp3.1\DiscountMart.pdb
+E:\College\Binod Sir\C#\Conditional\DiscountMart\DiscountMart\obj\Debug\netcoreapp3.1\DiscountMart.genruntimeconfig.cache

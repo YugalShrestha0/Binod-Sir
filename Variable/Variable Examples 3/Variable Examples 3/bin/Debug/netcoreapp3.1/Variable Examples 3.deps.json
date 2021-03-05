@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Variable Examples 3/1.0.0": {
+        "runtime": {
+          "Variable Examples 3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Variable Examples 3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

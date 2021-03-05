@@ -1,0 +1,13 @@
+E:\College\Binod Sir\C#\GUI\ResultProceesingSystem\ResultProceesingSystem\bin\Debug\ResultProceesingSystem.exe.config
+E:\College\Binod Sir\C#\GUI\ResultProceesingSystem\ResultProceesingSystem\bin\Debug\ResultProceesingSystem.exe
+E:\College\Binod Sir\C#\GUI\ResultProceesingSystem\ResultProceesingSystem\bin\Debug\ResultProceesingSystem.pdb
+E:\College\Binod Sir\C#\GUI\ResultProceesingSystem\ResultProceesingSystem\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\College\Binod Sir\C#\GUI\ResultProceesingSystem\ResultProceesingSystem\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\College\Binod Sir\C#\GUI\ResultProceesingSystem\ResultProceesingSystem\obj\Debug\ResultProceesingSystem.csprojAssemblyReference.cache
+E:\College\Binod Sir\C#\GUI\ResultProceesingSystem\ResultProceesingSystem\obj\Debug\ResultProceesingSystem.Form1.resources
+E:\College\Binod Sir\C#\GUI\ResultProceesingSystem\ResultProceesingSystem\obj\Debug\ResultProceesingSystem.Properties.Resources.resources
+E:\College\Binod Sir\C#\GUI\ResultProceesingSystem\ResultProceesingSystem\obj\Debug\ResultProceesingSystem.csproj.GenerateResource.cache
+E:\College\Binod Sir\C#\GUI\ResultProceesingSystem\ResultProceesingSystem\obj\Debug\ResultProceesingSystem.csproj.CoreCompileInputs.cache
+E:\College\Binod Sir\C#\GUI\ResultProceesingSystem\ResultProceesingSystem\obj\Debug\ResultProceesingSystem.csproj.CopyComplete
+E:\College\Binod Sir\C#\GUI\ResultProceesingSystem\ResultProceesingSystem\obj\Debug\ResultProceesingSystem.exe
+E:\College\Binod Sir\C#\GUI\ResultProceesingSystem\ResultProceesingSystem\obj\Debug\ResultProceesingSystem.pdb

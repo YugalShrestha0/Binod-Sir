@@ -1,0 +1,11 @@
+E:\Binod Sir\C#\Variable\VariableAndDataType\VariableAndDataType\bin\Debug\netcoreapp3.1\VariableAndDataType.exe
+E:\Binod Sir\C#\Variable\VariableAndDataType\VariableAndDataType\bin\Debug\netcoreapp3.1\VariableAndDataType.deps.json
+E:\Binod Sir\C#\Variable\VariableAndDataType\VariableAndDataType\bin\Debug\netcoreapp3.1\VariableAndDataType.runtimeconfig.json
+E:\Binod Sir\C#\Variable\VariableAndDataType\VariableAndDataType\bin\Debug\netcoreapp3.1\VariableAndDataType.runtimeconfig.dev.json
+E:\Binod Sir\C#\Variable\VariableAndDataType\VariableAndDataType\bin\Debug\netcoreapp3.1\VariableAndDataType.dll
+E:\Binod Sir\C#\Variable\VariableAndDataType\VariableAndDataType\bin\Debug\netcoreapp3.1\VariableAndDataType.pdb
+E:\Binod Sir\C#\Variable\VariableAndDataType\VariableAndDataType\obj\Debug\netcoreapp3.1\VariableAndDataType.csprojAssemblyReference.cache
+E:\Binod Sir\C#\Variable\VariableAndDataType\VariableAndDataType\obj\Debug\netcoreapp3.1\VariableAndDataType.AssemblyInfoInputs.cache
+E:\Binod Sir\C#\Variable\VariableAndDataType\VariableAndDataType\obj\Debug\netcoreapp3.1\VariableAndDataType.AssemblyInfo.cs
+E:\Binod Sir\C#\Variable\VariableAndDataType\VariableAndDataType\obj\Debug\netcoreapp3.1\VariableAndDataType.dll
+E:\Binod Sir\C#\Variable\VariableAndDataType\VariableAndDataType\obj\Debug\netcoreapp3.1\VariableAndDataType.pdb

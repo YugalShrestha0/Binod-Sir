@@ -1,0 +1,7 @@
+F:\1 college\College\Binod Sir\C#\New Function\PassingValueAsParameter\PassingValueAsParameter\bin\Debug\PassingValueAsParameter.exe.config
+F:\1 college\College\Binod Sir\C#\New Function\PassingValueAsParameter\PassingValueAsParameter\bin\Debug\PassingValueAsParameter.exe
+F:\1 college\College\Binod Sir\C#\New Function\PassingValueAsParameter\PassingValueAsParameter\bin\Debug\PassingValueAsParameter.pdb
+F:\1 college\College\Binod Sir\C#\New Function\PassingValueAsParameter\PassingValueAsParameter\obj\Debug\PassingValueAsParameter.csprojAssemblyReference.cache
+F:\1 college\College\Binod Sir\C#\New Function\PassingValueAsParameter\PassingValueAsParameter\obj\Debug\PassingValueAsParameter.csproj.CoreCompileInputs.cache
+F:\1 college\College\Binod Sir\C#\New Function\PassingValueAsParameter\PassingValueAsParameter\obj\Debug\PassingValueAsParameter.exe
+F:\1 college\College\Binod Sir\C#\New Function\PassingValueAsParameter\PassingValueAsParameter\obj\Debug\PassingValueAsParameter.pdb

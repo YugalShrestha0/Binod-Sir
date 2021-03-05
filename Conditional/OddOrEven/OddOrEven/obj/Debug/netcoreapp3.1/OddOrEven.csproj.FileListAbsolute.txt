@@ -1,0 +1,13 @@
+E:\College\Binod Sir\C#\Conditional\OddOrEven\OddOrEven\bin\Debug\netcoreapp3.1\OddOrEven.exe
+E:\College\Binod Sir\C#\Conditional\OddOrEven\OddOrEven\bin\Debug\netcoreapp3.1\OddOrEven.deps.json
+E:\College\Binod Sir\C#\Conditional\OddOrEven\OddOrEven\bin\Debug\netcoreapp3.1\OddOrEven.runtimeconfig.json
+E:\College\Binod Sir\C#\Conditional\OddOrEven\OddOrEven\bin\Debug\netcoreapp3.1\OddOrEven.runtimeconfig.dev.json
+E:\College\Binod Sir\C#\Conditional\OddOrEven\OddOrEven\bin\Debug\netcoreapp3.1\OddOrEven.dll
+E:\College\Binod Sir\C#\Conditional\OddOrEven\OddOrEven\bin\Debug\netcoreapp3.1\OddOrEven.pdb
+E:\College\Binod Sir\C#\Conditional\OddOrEven\OddOrEven\obj\Debug\netcoreapp3.1\OddOrEven.csprojAssemblyReference.cache
+E:\College\Binod Sir\C#\Conditional\OddOrEven\OddOrEven\obj\Debug\netcoreapp3.1\OddOrEven.AssemblyInfoInputs.cache
+E:\College\Binod Sir\C#\Conditional\OddOrEven\OddOrEven\obj\Debug\netcoreapp3.1\OddOrEven.AssemblyInfo.cs
+E:\College\Binod Sir\C#\Conditional\OddOrEven\OddOrEven\obj\Debug\netcoreapp3.1\OddOrEven.csproj.CoreCompileInputs.cache
+E:\College\Binod Sir\C#\Conditional\OddOrEven\OddOrEven\obj\Debug\netcoreapp3.1\OddOrEven.dll
+E:\College\Binod Sir\C#\Conditional\OddOrEven\OddOrEven\obj\Debug\netcoreapp3.1\OddOrEven.pdb
+E:\College\Binod Sir\C#\Conditional\OddOrEven\OddOrEven\obj\Debug\netcoreapp3.1\OddOrEven.genruntimeconfig.cache

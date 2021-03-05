@@ -1,0 +1,7 @@
+F:\1 college\College\Binod Sir\C#\New Function\OddNumPassesArray\OddNumPassesArray\bin\Debug\OddNumPassesArray.exe.config
+F:\1 college\College\Binod Sir\C#\New Function\OddNumPassesArray\OddNumPassesArray\bin\Debug\OddNumPassesArray.exe
+F:\1 college\College\Binod Sir\C#\New Function\OddNumPassesArray\OddNumPassesArray\bin\Debug\OddNumPassesArray.pdb
+F:\1 college\College\Binod Sir\C#\New Function\OddNumPassesArray\OddNumPassesArray\obj\Debug\OddNumPassesArray.csprojAssemblyReference.cache
+F:\1 college\College\Binod Sir\C#\New Function\OddNumPassesArray\OddNumPassesArray\obj\Debug\OddNumPassesArray.csproj.CoreCompileInputs.cache
+F:\1 college\College\Binod Sir\C#\New Function\OddNumPassesArray\OddNumPassesArray\obj\Debug\OddNumPassesArray.exe
+F:\1 college\College\Binod Sir\C#\New Function\OddNumPassesArray\OddNumPassesArray\obj\Debug\OddNumPassesArray.pdb

@@ -1,0 +1,7 @@
+F:\1 college\Binod Sir\C#\Array\10NumAndGreatest\10NumAndGreatest\bin\Debug\10NumAndGreatest.exe.config
+F:\1 college\Binod Sir\C#\Array\10NumAndGreatest\10NumAndGreatest\bin\Debug\10NumAndGreatest.exe
+F:\1 college\Binod Sir\C#\Array\10NumAndGreatest\10NumAndGreatest\bin\Debug\10NumAndGreatest.pdb
+F:\1 college\Binod Sir\C#\Array\10NumAndGreatest\10NumAndGreatest\obj\Debug\10NumAndGreatest.csprojAssemblyReference.cache
+F:\1 college\Binod Sir\C#\Array\10NumAndGreatest\10NumAndGreatest\obj\Debug\10NumAndGreatest.csproj.CoreCompileInputs.cache
+F:\1 college\Binod Sir\C#\Array\10NumAndGreatest\10NumAndGreatest\obj\Debug\10NumAndGreatest.exe
+F:\1 college\Binod Sir\C#\Array\10NumAndGreatest\10NumAndGreatest\obj\Debug\10NumAndGreatest.pdb

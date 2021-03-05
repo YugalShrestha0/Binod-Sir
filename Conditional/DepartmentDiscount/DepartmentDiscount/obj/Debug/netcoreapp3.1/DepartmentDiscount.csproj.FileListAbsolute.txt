@@ -1,0 +1,13 @@
+E:\College\Binod Sir\C#\Conditional\DepartmentDiscount\DepartmentDiscount\obj\Debug\netcoreapp3.1\DepartmentDiscount.csprojAssemblyReference.cache
+E:\College\Binod Sir\C#\Conditional\DepartmentDiscount\DepartmentDiscount\obj\Debug\netcoreapp3.1\DepartmentDiscount.csproj.CoreCompileInputs.cache
+E:\College\Binod Sir\C#\Conditional\DepartmentDiscount\DepartmentDiscount\obj\Debug\netcoreapp3.1\DepartmentDiscount.AssemblyInfoInputs.cache
+E:\College\Binod Sir\C#\Conditional\DepartmentDiscount\DepartmentDiscount\obj\Debug\netcoreapp3.1\DepartmentDiscount.AssemblyInfo.cs
+E:\College\Binod Sir\C#\Conditional\DepartmentDiscount\DepartmentDiscount\bin\Debug\netcoreapp3.1\DepartmentDiscount.exe
+E:\College\Binod Sir\C#\Conditional\DepartmentDiscount\DepartmentDiscount\bin\Debug\netcoreapp3.1\DepartmentDiscount.deps.json
+E:\College\Binod Sir\C#\Conditional\DepartmentDiscount\DepartmentDiscount\bin\Debug\netcoreapp3.1\DepartmentDiscount.runtimeconfig.json
+E:\College\Binod Sir\C#\Conditional\DepartmentDiscount\DepartmentDiscount\bin\Debug\netcoreapp3.1\DepartmentDiscount.runtimeconfig.dev.json
+E:\College\Binod Sir\C#\Conditional\DepartmentDiscount\DepartmentDiscount\bin\Debug\netcoreapp3.1\DepartmentDiscount.dll
+E:\College\Binod Sir\C#\Conditional\DepartmentDiscount\DepartmentDiscount\bin\Debug\netcoreapp3.1\DepartmentDiscount.pdb
+E:\College\Binod Sir\C#\Conditional\DepartmentDiscount\DepartmentDiscount\obj\Debug\netcoreapp3.1\DepartmentDiscount.dll
+E:\College\Binod Sir\C#\Conditional\DepartmentDiscount\DepartmentDiscount\obj\Debug\netcoreapp3.1\DepartmentDiscount.pdb
+E:\College\Binod Sir\C#\Conditional\DepartmentDiscount\DepartmentDiscount\obj\Debug\netcoreapp3.1\DepartmentDiscount.genruntimeconfig.cache

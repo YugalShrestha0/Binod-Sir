@@ -1,0 +1,10 @@
+E:\Binod Sir\C#\Variable\VariableAndDataType-3(ParseMethod)\VariableAndDataType-3(ParseMethod)\bin\Debug\netcoreapp3.1\VariableAndDataType-3(ParseMethod).exe
+E:\Binod Sir\C#\Variable\VariableAndDataType-3(ParseMethod)\VariableAndDataType-3(ParseMethod)\bin\Debug\netcoreapp3.1\VariableAndDataType-3(ParseMethod).deps.json
+E:\Binod Sir\C#\Variable\VariableAndDataType-3(ParseMethod)\VariableAndDataType-3(ParseMethod)\bin\Debug\netcoreapp3.1\VariableAndDataType-3(ParseMethod).runtimeconfig.json
+E:\Binod Sir\C#\Variable\VariableAndDataType-3(ParseMethod)\VariableAndDataType-3(ParseMethod)\bin\Debug\netcoreapp3.1\VariableAndDataType-3(ParseMethod).runtimeconfig.dev.json
+E:\Binod Sir\C#\Variable\VariableAndDataType-3(ParseMethod)\VariableAndDataType-3(ParseMethod)\bin\Debug\netcoreapp3.1\VariableAndDataType-3(ParseMethod).dll
+E:\Binod Sir\C#\Variable\VariableAndDataType-3(ParseMethod)\VariableAndDataType-3(ParseMethod)\bin\Debug\netcoreapp3.1\VariableAndDataType-3(ParseMethod).pdb
+E:\Binod Sir\C#\Variable\VariableAndDataType-3(ParseMethod)\VariableAndDataType-3(ParseMethod)\obj\Debug\netcoreapp3.1\VariableAndDataType-3(ParseMethod).AssemblyInfoInputs.cache
+E:\Binod Sir\C#\Variable\VariableAndDataType-3(ParseMethod)\VariableAndDataType-3(ParseMethod)\obj\Debug\netcoreapp3.1\VariableAndDataType-3(ParseMethod).AssemblyInfo.cs
+E:\Binod Sir\C#\Variable\VariableAndDataType-3(ParseMethod)\VariableAndDataType-3(ParseMethod)\obj\Debug\netcoreapp3.1\VariableAndDataType-3(ParseMethod).dll
+E:\Binod Sir\C#\Variable\VariableAndDataType-3(ParseMethod)\VariableAndDataType-3(ParseMethod)\obj\Debug\netcoreapp3.1\VariableAndDataType-3(ParseMethod).pdb

@@ -1,0 +1,7 @@
+F:\1 college\College\Binod Sir\C#\List\First\First\bin\Debug\First.exe.config
+F:\1 college\College\Binod Sir\C#\List\First\First\bin\Debug\First.exe
+F:\1 college\College\Binod Sir\C#\List\First\First\bin\Debug\First.pdb
+F:\1 college\College\Binod Sir\C#\List\First\First\obj\Debug\First.csprojAssemblyReference.cache
+F:\1 college\College\Binod Sir\C#\List\First\First\obj\Debug\First.csproj.CoreCompileInputs.cache
+F:\1 college\College\Binod Sir\C#\List\First\First\obj\Debug\First.exe
+F:\1 college\College\Binod Sir\C#\List\First\First\obj\Debug\First.pdb

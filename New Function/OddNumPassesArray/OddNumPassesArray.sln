@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddNumPassesArray", "OddNumPassesArray\OddNumPassesArray.csproj", "{5A59D692-73E3-44EB-91D7-0D2E857B061A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A59D692-73E3-44EB-91D7-0D2E857B061A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A59D692-73E3-44EB-91D7-0D2E857B061A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A59D692-73E3-44EB-91D7-0D2E857B061A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A59D692-73E3-44EB-91D7-0D2E857B061A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B4BAEC6-1C48-425B-BAA8-53E1858705B7}
+	EndGlobalSection
+EndGlobal

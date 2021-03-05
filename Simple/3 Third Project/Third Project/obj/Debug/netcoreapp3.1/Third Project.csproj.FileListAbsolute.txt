@@ -1,0 +1,10 @@
+E:\Binod Sir\C# Projects\Third Project\Third Project\bin\Debug\netcoreapp3.1\Third Project.exe
+E:\Binod Sir\C# Projects\Third Project\Third Project\bin\Debug\netcoreapp3.1\Third Project.deps.json
+E:\Binod Sir\C# Projects\Third Project\Third Project\bin\Debug\netcoreapp3.1\Third Project.runtimeconfig.json
+E:\Binod Sir\C# Projects\Third Project\Third Project\bin\Debug\netcoreapp3.1\Third Project.runtimeconfig.dev.json
+E:\Binod Sir\C# Projects\Third Project\Third Project\bin\Debug\netcoreapp3.1\Third Project.dll
+E:\Binod Sir\C# Projects\Third Project\Third Project\bin\Debug\netcoreapp3.1\Third Project.pdb
+E:\Binod Sir\C# Projects\Third Project\Third Project\obj\Debug\netcoreapp3.1\Third Project.AssemblyInfoInputs.cache
+E:\Binod Sir\C# Projects\Third Project\Third Project\obj\Debug\netcoreapp3.1\Third Project.AssemblyInfo.cs
+E:\Binod Sir\C# Projects\Third Project\Third Project\obj\Debug\netcoreapp3.1\Third Project.dll
+E:\Binod Sir\C# Projects\Third Project\Third Project\obj\Debug\netcoreapp3.1\Third Project.pdb

@@ -1,0 +1,7 @@
+C:\Users\acer\Desktop\college\Binod\C#\Array\FriendCollection\FriendCollection\bin\Debug\FriendCollection.exe.config
+C:\Users\acer\Desktop\college\Binod\C#\Array\FriendCollection\FriendCollection\bin\Debug\FriendCollection.exe
+C:\Users\acer\Desktop\college\Binod\C#\Array\FriendCollection\FriendCollection\bin\Debug\FriendCollection.pdb
+C:\Users\acer\Desktop\college\Binod\C#\Array\FriendCollection\FriendCollection\obj\Debug\FriendCollection.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\college\Binod\C#\Array\FriendCollection\FriendCollection\obj\Debug\FriendCollection.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\college\Binod\C#\Array\FriendCollection\FriendCollection\obj\Debug\FriendCollection.exe
+C:\Users\acer\Desktop\college\Binod\C#\Array\FriendCollection\FriendCollection\obj\Debug\FriendCollection.pdb

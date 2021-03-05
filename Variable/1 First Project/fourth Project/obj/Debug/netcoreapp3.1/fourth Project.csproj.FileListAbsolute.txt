@@ -1,0 +1,11 @@
+E:\Binod Sir\C#\fourth Project\fourth Project\bin\Debug\netcoreapp3.1\fourth Project.exe
+E:\Binod Sir\C#\fourth Project\fourth Project\bin\Debug\netcoreapp3.1\fourth Project.deps.json
+E:\Binod Sir\C#\fourth Project\fourth Project\bin\Debug\netcoreapp3.1\fourth Project.runtimeconfig.json
+E:\Binod Sir\C#\fourth Project\fourth Project\bin\Debug\netcoreapp3.1\fourth Project.runtimeconfig.dev.json
+E:\Binod Sir\C#\fourth Project\fourth Project\bin\Debug\netcoreapp3.1\fourth Project.dll
+E:\Binod Sir\C#\fourth Project\fourth Project\bin\Debug\netcoreapp3.1\fourth Project.pdb
+E:\Binod Sir\C#\fourth Project\fourth Project\obj\Debug\netcoreapp3.1\fourth Project.csprojAssemblyReference.cache
+E:\Binod Sir\C#\fourth Project\fourth Project\obj\Debug\netcoreapp3.1\fourth Project.AssemblyInfoInputs.cache
+E:\Binod Sir\C#\fourth Project\fourth Project\obj\Debug\netcoreapp3.1\fourth Project.AssemblyInfo.cs
+E:\Binod Sir\C#\fourth Project\fourth Project\obj\Debug\netcoreapp3.1\fourth Project.dll
+E:\Binod Sir\C#\fourth Project\fourth Project\obj\Debug\netcoreapp3.1\fourth Project.pdb

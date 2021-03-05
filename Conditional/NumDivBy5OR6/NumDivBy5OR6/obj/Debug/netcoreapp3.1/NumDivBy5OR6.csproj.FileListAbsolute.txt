@@ -1,0 +1,13 @@
+E:\College\Binod Sir\C#\Conditional\NumDivBy5OR6\NumDivBy5OR6\bin\Debug\netcoreapp3.1\NumDivBy5OR6.exe
+E:\College\Binod Sir\C#\Conditional\NumDivBy5OR6\NumDivBy5OR6\bin\Debug\netcoreapp3.1\NumDivBy5OR6.deps.json
+E:\College\Binod Sir\C#\Conditional\NumDivBy5OR6\NumDivBy5OR6\bin\Debug\netcoreapp3.1\NumDivBy5OR6.runtimeconfig.json
+E:\College\Binod Sir\C#\Conditional\NumDivBy5OR6\NumDivBy5OR6\bin\Debug\netcoreapp3.1\NumDivBy5OR6.runtimeconfig.dev.json
+E:\College\Binod Sir\C#\Conditional\NumDivBy5OR6\NumDivBy5OR6\bin\Debug\netcoreapp3.1\NumDivBy5OR6.dll
+E:\College\Binod Sir\C#\Conditional\NumDivBy5OR6\NumDivBy5OR6\bin\Debug\netcoreapp3.1\NumDivBy5OR6.pdb
+E:\College\Binod Sir\C#\Conditional\NumDivBy5OR6\NumDivBy5OR6\obj\Debug\netcoreapp3.1\NumDivBy5OR6.csprojAssemblyReference.cache
+E:\College\Binod Sir\C#\Conditional\NumDivBy5OR6\NumDivBy5OR6\obj\Debug\netcoreapp3.1\NumDivBy5OR6.AssemblyInfoInputs.cache
+E:\College\Binod Sir\C#\Conditional\NumDivBy5OR6\NumDivBy5OR6\obj\Debug\netcoreapp3.1\NumDivBy5OR6.AssemblyInfo.cs
+E:\College\Binod Sir\C#\Conditional\NumDivBy5OR6\NumDivBy5OR6\obj\Debug\netcoreapp3.1\NumDivBy5OR6.csproj.CoreCompileInputs.cache
+E:\College\Binod Sir\C#\Conditional\NumDivBy5OR6\NumDivBy5OR6\obj\Debug\netcoreapp3.1\NumDivBy5OR6.dll
+E:\College\Binod Sir\C#\Conditional\NumDivBy5OR6\NumDivBy5OR6\obj\Debug\netcoreapp3.1\NumDivBy5OR6.pdb
+E:\College\Binod Sir\C#\Conditional\NumDivBy5OR6\NumDivBy5OR6\obj\Debug\netcoreapp3.1\NumDivBy5OR6.genruntimeconfig.cache

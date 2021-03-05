@@ -1,0 +1,13 @@
+E:\College\Binod Sir\C#\Menu Driven\VolumeOfRoom\VolumeOfRoom\bin\Debug\netcoreapp3.1\VolumeOfRoom.exe
+E:\College\Binod Sir\C#\Menu Driven\VolumeOfRoom\VolumeOfRoom\bin\Debug\netcoreapp3.1\VolumeOfRoom.deps.json
+E:\College\Binod Sir\C#\Menu Driven\VolumeOfRoom\VolumeOfRoom\bin\Debug\netcoreapp3.1\VolumeOfRoom.runtimeconfig.json
+E:\College\Binod Sir\C#\Menu Driven\VolumeOfRoom\VolumeOfRoom\bin\Debug\netcoreapp3.1\VolumeOfRoom.runtimeconfig.dev.json
+E:\College\Binod Sir\C#\Menu Driven\VolumeOfRoom\VolumeOfRoom\bin\Debug\netcoreapp3.1\VolumeOfRoom.dll
+E:\College\Binod Sir\C#\Menu Driven\VolumeOfRoom\VolumeOfRoom\bin\Debug\netcoreapp3.1\VolumeOfRoom.pdb
+E:\College\Binod Sir\C#\Menu Driven\VolumeOfRoom\VolumeOfRoom\obj\Debug\netcoreapp3.1\VolumeOfRoom.csprojAssemblyReference.cache
+E:\College\Binod Sir\C#\Menu Driven\VolumeOfRoom\VolumeOfRoom\obj\Debug\netcoreapp3.1\VolumeOfRoom.AssemblyInfoInputs.cache
+E:\College\Binod Sir\C#\Menu Driven\VolumeOfRoom\VolumeOfRoom\obj\Debug\netcoreapp3.1\VolumeOfRoom.AssemblyInfo.cs
+E:\College\Binod Sir\C#\Menu Driven\VolumeOfRoom\VolumeOfRoom\obj\Debug\netcoreapp3.1\VolumeOfRoom.csproj.CoreCompileInputs.cache
+E:\College\Binod Sir\C#\Menu Driven\VolumeOfRoom\VolumeOfRoom\obj\Debug\netcoreapp3.1\VolumeOfRoom.dll
+E:\College\Binod Sir\C#\Menu Driven\VolumeOfRoom\VolumeOfRoom\obj\Debug\netcoreapp3.1\VolumeOfRoom.pdb
+E:\College\Binod Sir\C#\Menu Driven\VolumeOfRoom\VolumeOfRoom\obj\Debug\netcoreapp3.1\VolumeOfRoom.genruntimeconfig.cache

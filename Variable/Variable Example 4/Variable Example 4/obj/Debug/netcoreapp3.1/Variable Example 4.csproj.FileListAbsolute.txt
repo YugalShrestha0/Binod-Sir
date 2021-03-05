@@ -1,0 +1,11 @@
+E:\Binod Sir\C#\Variable\Variable Example 4\Variable Example 4\bin\Debug\netcoreapp3.1\Variable Example 4.exe
+E:\Binod Sir\C#\Variable\Variable Example 4\Variable Example 4\bin\Debug\netcoreapp3.1\Variable Example 4.deps.json
+E:\Binod Sir\C#\Variable\Variable Example 4\Variable Example 4\bin\Debug\netcoreapp3.1\Variable Example 4.runtimeconfig.json
+E:\Binod Sir\C#\Variable\Variable Example 4\Variable Example 4\bin\Debug\netcoreapp3.1\Variable Example 4.runtimeconfig.dev.json
+E:\Binod Sir\C#\Variable\Variable Example 4\Variable Example 4\bin\Debug\netcoreapp3.1\Variable Example 4.dll
+E:\Binod Sir\C#\Variable\Variable Example 4\Variable Example 4\bin\Debug\netcoreapp3.1\Variable Example 4.pdb
+E:\Binod Sir\C#\Variable\Variable Example 4\Variable Example 4\obj\Debug\netcoreapp3.1\Variable Example 4.csprojAssemblyReference.cache
+E:\Binod Sir\C#\Variable\Variable Example 4\Variable Example 4\obj\Debug\netcoreapp3.1\Variable Example 4.AssemblyInfoInputs.cache
+E:\Binod Sir\C#\Variable\Variable Example 4\Variable Example 4\obj\Debug\netcoreapp3.1\Variable Example 4.AssemblyInfo.cs
+E:\Binod Sir\C#\Variable\Variable Example 4\Variable Example 4\obj\Debug\netcoreapp3.1\Variable Example 4.dll
+E:\Binod Sir\C#\Variable\Variable Example 4\Variable Example 4\obj\Debug\netcoreapp3.1\Variable Example 4.pdb
