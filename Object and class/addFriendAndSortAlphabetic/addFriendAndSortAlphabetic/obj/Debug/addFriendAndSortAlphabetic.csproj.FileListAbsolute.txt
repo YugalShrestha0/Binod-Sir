@@ -1,0 +1,7 @@
+F:\1 college\College\Binod Sir\C#\Object and class\addFriendAndSortAlphabetic\addFriendAndSortAlphabetic\bin\Debug\addFriendAndSortAlphabetic.exe.config
+F:\1 college\College\Binod Sir\C#\Object and class\addFriendAndSortAlphabetic\addFriendAndSortAlphabetic\bin\Debug\addFriendAndSortAlphabetic.exe
+F:\1 college\College\Binod Sir\C#\Object and class\addFriendAndSortAlphabetic\addFriendAndSortAlphabetic\bin\Debug\addFriendAndSortAlphabetic.pdb
+F:\1 college\College\Binod Sir\C#\Object and class\addFriendAndSortAlphabetic\addFriendAndSortAlphabetic\obj\Debug\addFriendAndSortAlphabetic.csprojAssemblyReference.cache
+F:\1 college\College\Binod Sir\C#\Object and class\addFriendAndSortAlphabetic\addFriendAndSortAlphabetic\obj\Debug\addFriendAndSortAlphabetic.csproj.CoreCompileInputs.cache
+F:\1 college\College\Binod Sir\C#\Object and class\addFriendAndSortAlphabetic\addFriendAndSortAlphabetic\obj\Debug\addFriendAndSortAlphabetic.exe
+F:\1 college\College\Binod Sir\C#\Object and class\addFriendAndSortAlphabetic\addFriendAndSortAlphabetic\obj\Debug\addFriendAndSortAlphabetic.pdb
