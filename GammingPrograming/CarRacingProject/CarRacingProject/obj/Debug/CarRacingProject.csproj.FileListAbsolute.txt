@@ -8,3 +8,13 @@ E:\College\Binod Sir\C#\Gamming programing\CarRacingProject\CarRacingProject\obj
 E:\College\Binod Sir\C#\Gamming programing\CarRacingProject\CarRacingProject\obj\Debug\CarRacingProject.csproj.CoreCompileInputs.cache
 E:\College\Binod Sir\C#\Gamming programing\CarRacingProject\CarRacingProject\obj\Debug\CarRacingProject.exe
 E:\College\Binod Sir\C#\Gamming programing\CarRacingProject\CarRacingProject\obj\Debug\CarRacingProject.pdb
+F:\1 college\College\Binod Sir\C#\GammingPrograming\CarRacingProject\CarRacingProject\bin\Debug\CarRacingProject.exe.config
+F:\1 college\College\Binod Sir\C#\GammingPrograming\CarRacingProject\CarRacingProject\bin\Debug\CarRacingProject.exe
+F:\1 college\College\Binod Sir\C#\GammingPrograming\CarRacingProject\CarRacingProject\bin\Debug\CarRacingProject.pdb
+F:\1 college\College\Binod Sir\C#\GammingPrograming\CarRacingProject\CarRacingProject\obj\Debug\CarRacingProject.csprojAssemblyReference.cache
+F:\1 college\College\Binod Sir\C#\GammingPrograming\CarRacingProject\CarRacingProject\obj\Debug\CarRacingProject.Form1.resources
+F:\1 college\College\Binod Sir\C#\GammingPrograming\CarRacingProject\CarRacingProject\obj\Debug\CarRacingProject.Properties.Resources.resources
+F:\1 college\College\Binod Sir\C#\GammingPrograming\CarRacingProject\CarRacingProject\obj\Debug\CarRacingProject.csproj.GenerateResource.cache
+F:\1 college\College\Binod Sir\C#\GammingPrograming\CarRacingProject\CarRacingProject\obj\Debug\CarRacingProject.csproj.CoreCompileInputs.cache
+F:\1 college\College\Binod Sir\C#\GammingPrograming\CarRacingProject\CarRacingProject\obj\Debug\CarRacingProject.exe
+F:\1 college\College\Binod Sir\C#\GammingPrograming\CarRacingProject\CarRacingProject\obj\Debug\CarRacingProject.pdb

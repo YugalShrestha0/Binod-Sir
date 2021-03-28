@@ -1,0 +1,7 @@
+F:\1 college\College\Binod Sir\C#\Object and class\Area\Area\bin\Debug\Area.exe.config
+F:\1 college\College\Binod Sir\C#\Object and class\Area\Area\bin\Debug\Area.exe
+F:\1 college\College\Binod Sir\C#\Object and class\Area\Area\bin\Debug\Area.pdb
+F:\1 college\College\Binod Sir\C#\Object and class\Area\Area\obj\Debug\Area.csprojAssemblyReference.cache
+F:\1 college\College\Binod Sir\C#\Object and class\Area\Area\obj\Debug\Area.csproj.CoreCompileInputs.cache
+F:\1 college\College\Binod Sir\C#\Object and class\Area\Area\obj\Debug\Area.exe
+F:\1 college\College\Binod Sir\C#\Object and class\Area\Area\obj\Debug\Area.pdb

@@ -31,9 +31,14 @@ namespace ImageMoveOnKeyPress
         {
             
         }
+        int score = 0;
+        int x, y;
+        Random r = new Random();
 
         private void Form1_KeyDown(object sender, KeyEventArgs e)
         {
+            r.Next(100);
+
             if (e.KeyCode == Keys.Up) {pbImage.Top -= 5;}
 
             if (e.KeyCode == Keys.Down) {pbImage.Top += 5;}
@@ -42,7 +47,16 @@ namespace ImageMoveOnKeyPress
 
             if (e.KeyCode == Keys.Right) {pbImage.Left += 5;}
 
-            if (pbImage.Bounds.)
+            if (pbImage.Bounds.IntersectsWith(pbImageSecond.Bounds))
+            {
+                x = r.Next(this.Width);
+                y = r.Next(this.Width);
+
+                pbImageSecond.Location = new Point(x, y);
+
+                score++;
+                lblScore.Text = score.ToString();
+            }
         }
 
         
@@ -50,6 +64,12 @@ namespace ImageMoveOnKeyPress
         private void Form1_KeyPress_1(object sender, KeyPressEventArgs e)
         {
             
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            
+
         }
     }
 }
