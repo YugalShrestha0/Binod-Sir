@@ -1,0 +1,11 @@
+F:\1 college\College\Binod Sir\project\Practice\UserManagement\UserManagementSystem\UserManagementSystem\bin\Debug\UserManagementSystem.exe.config
+F:\1 college\College\Binod Sir\project\Practice\UserManagement\UserManagementSystem\UserManagementSystem\bin\Debug\UserManagementSystem.exe
+F:\1 college\College\Binod Sir\project\Practice\UserManagement\UserManagementSystem\UserManagementSystem\bin\Debug\UserManagementSystem.pdb
+F:\1 college\College\Binod Sir\project\Practice\UserManagement\UserManagementSystem\UserManagementSystem\obj\Debug\UserManagementSystem.csprojAssemblyReference.cache
+F:\1 college\College\Binod Sir\project\Practice\UserManagement\UserManagementSystem\UserManagementSystem\obj\Debug\UserManagementSystem.Form1.resources
+F:\1 college\College\Binod Sir\project\Practice\UserManagement\UserManagementSystem\UserManagementSystem\obj\Debug\UserManagementSystem.Properties.Resources.resources
+F:\1 college\College\Binod Sir\project\Practice\UserManagement\UserManagementSystem\UserManagementSystem\obj\Debug\UserManagementSystem.UserForm.resources
+F:\1 college\College\Binod Sir\project\Practice\UserManagement\UserManagementSystem\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.GenerateResource.cache
+F:\1 college\College\Binod Sir\project\Practice\UserManagement\UserManagementSystem\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.CoreCompileInputs.cache
+F:\1 college\College\Binod Sir\project\Practice\UserManagement\UserManagementSystem\UserManagementSystem\obj\Debug\UserManagementSystem.exe
+F:\1 college\College\Binod Sir\project\Practice\UserManagement\UserManagementSystem\UserManagementSystem\obj\Debug\UserManagementSystem.pdb

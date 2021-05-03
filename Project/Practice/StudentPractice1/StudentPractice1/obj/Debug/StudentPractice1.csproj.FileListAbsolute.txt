@@ -1,0 +1,10 @@
+C:\Users\acer\source\repos\Practice\StudentPractice1\StudentPractice1\bin\Debug\StudentPractice1.exe.config
+C:\Users\acer\source\repos\Practice\StudentPractice1\StudentPractice1\bin\Debug\StudentPractice1.exe
+C:\Users\acer\source\repos\Practice\StudentPractice1\StudentPractice1\bin\Debug\StudentPractice1.pdb
+C:\Users\acer\source\repos\Practice\StudentPractice1\StudentPractice1\obj\Debug\StudentPractice1.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\Practice\StudentPractice1\StudentPractice1\obj\Debug\StudentPractice1.Form1.resources
+C:\Users\acer\source\repos\Practice\StudentPractice1\StudentPractice1\obj\Debug\StudentPractice1.Properties.Resources.resources
+C:\Users\acer\source\repos\Practice\StudentPractice1\StudentPractice1\obj\Debug\StudentPractice1.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\Practice\StudentPractice1\StudentPractice1\obj\Debug\StudentPractice1.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Practice\StudentPractice1\StudentPractice1\obj\Debug\StudentPractice1.exe
+C:\Users\acer\source\repos\Practice\StudentPractice1\StudentPractice1\obj\Debug\StudentPractice1.pdb
