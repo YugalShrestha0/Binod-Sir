@@ -1,0 +1,13 @@
+F:\1 college\College\Binod Sir\C#\AssignmentEntrySystem\AssignmentEntrySystem\bin\Debug\AssignmentEntrySystem.exe.config
+F:\1 college\College\Binod Sir\C#\AssignmentEntrySystem\AssignmentEntrySystem\bin\Debug\AssignmentEntrySystem.exe
+F:\1 college\College\Binod Sir\C#\AssignmentEntrySystem\AssignmentEntrySystem\bin\Debug\AssignmentEntrySystem.pdb
+F:\1 college\College\Binod Sir\C#\AssignmentEntrySystem\AssignmentEntrySystem\obj\Debug\AssignmentEntrySystem.csprojAssemblyReference.cache
+F:\1 college\College\Binod Sir\C#\AssignmentEntrySystem\AssignmentEntrySystem\obj\Debug\AssignmentEntrySystem.Form1.resources
+F:\1 college\College\Binod Sir\C#\AssignmentEntrySystem\AssignmentEntrySystem\obj\Debug\AssignmentEntrySystem.Login.resources
+F:\1 college\College\Binod Sir\C#\AssignmentEntrySystem\AssignmentEntrySystem\obj\Debug\AssignmentEntrySystem.Properties.Resources.resources
+F:\1 college\College\Binod Sir\C#\AssignmentEntrySystem\AssignmentEntrySystem\obj\Debug\AssignmentEntrySystem.csproj.GenerateResource.cache
+F:\1 college\College\Binod Sir\C#\AssignmentEntrySystem\AssignmentEntrySystem\obj\Debug\AssignmentEntrySystem.csproj.CoreCompileInputs.cache
+F:\1 college\College\Binod Sir\C#\AssignmentEntrySystem\AssignmentEntrySystem\obj\Debug\AssignmentEntrySystem.exe
+F:\1 college\College\Binod Sir\C#\AssignmentEntrySystem\AssignmentEntrySystem\obj\Debug\AssignmentEntrySystem.pdb
+F:\1 college\College\Binod Sir\C#\AssignmentEntrySystem\AssignmentEntrySystem\obj\Debug\AssignmentEntrySystem.UserForm.resources
+F:\1 college\College\Binod Sir\C#\AssignmentEntrySystem\AssignmentEntrySystem\obj\Debug\AssignmentEntrySystem.ProgramForm.resources
