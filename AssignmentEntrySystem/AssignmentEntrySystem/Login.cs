@@ -17,11 +17,28 @@ namespace AssignmentEntrySystem
             InitializeComponent();
 
         }
+        Database.UserClass uc = new Database.UserClass();
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            Form1 F1 = new Form1();
-            F1.ShowDialog();
+            try
+            {
+                bool r = uc.login(txtLUserName.Text, txtLPassword.Text);
+                if (r == true)
+                {
+                    Form1 frm = new Form1();
+                    frm.Show();
+                }
+                else
+                {
+                    MessageBox.Show("Invalid username or password");
+                }
+            }
+            catch (Exception ex)
+            {
+
+                MessageBox.Show(ex.Message);
+            }
         }
 
         private void btnExit_Click(object sender, EventArgs e)

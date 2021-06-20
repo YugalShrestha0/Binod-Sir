@@ -30,16 +30,16 @@ namespace AssignmentEntrySystem
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ProgramForm));
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
             this.txtDescription = new System.Windows.Forms.TextBox();
             this.label7 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.dgvProgramDetails = new System.Windows.Forms.DataGridView();
-            this.btnMClose = new System.Windows.Forms.Button();
-            this.btnMDelete = new System.Windows.Forms.Button();
+            this.btnPClose = new System.Windows.Forms.Button();
+            this.btnPDelete = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
-            this.btnMEdit = new System.Windows.Forms.Button();
-            this.btnMAdd = new System.Windows.Forms.Button();
+            this.btnPEdit = new System.Windows.Forms.Button();
+            this.btnPAdd = new System.Windows.Forms.Button();
             this.txtDuration = new System.Windows.Forms.TextBox();
             this.txtProgramCode = new System.Windows.Forms.TextBox();
             this.txtProgramName = new System.Windows.Forms.TextBox();
@@ -56,6 +56,7 @@ namespace AssignmentEntrySystem
             // 
             // txtDescription
             // 
+            this.txtDescription.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtDescription.Location = new System.Drawing.Point(167, 122);
             this.txtDescription.Multiline = true;
             this.txtDescription.Name = "txtDescription";
@@ -88,8 +89,8 @@ namespace AssignmentEntrySystem
             this.dgvProgramDetails.AllowUserToAddRows = false;
             this.dgvProgramDetails.AllowUserToDeleteRows = false;
             this.dgvProgramDetails.AllowUserToOrderColumns = true;
-            dataGridViewCellStyle2.BackColor = System.Drawing.Color.Silver;
-            this.dgvProgramDetails.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle2;
+            dataGridViewCellStyle3.BackColor = System.Drawing.Color.Silver;
+            this.dgvProgramDetails.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle3;
             this.dgvProgramDetails.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dgvProgramDetails.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvProgramDetails.Location = new System.Drawing.Point(12, 254);
@@ -98,31 +99,33 @@ namespace AssignmentEntrySystem
             this.dgvProgramDetails.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvProgramDetails.Size = new System.Drawing.Size(521, 205);
             this.dgvProgramDetails.TabIndex = 12;
+            this.dgvProgramDetails.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvProgramDetails_CellClick);
             // 
-            // btnMClose
+            // btnPClose
             // 
-            this.btnMClose.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            this.btnMClose.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnMClose.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.btnMClose.Location = new System.Drawing.Point(1, 133);
-            this.btnMClose.Name = "btnMClose";
-            this.btnMClose.Size = new System.Drawing.Size(120, 45);
-            this.btnMClose.TabIndex = 3;
-            this.btnMClose.Text = "CLOSE";
-            this.btnMClose.UseVisualStyleBackColor = false;
-            this.btnMClose.Click += new System.EventHandler(this.btnMClose_Click);
+            this.btnPClose.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+            this.btnPClose.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnPClose.ForeColor = System.Drawing.SystemColors.ButtonFace;
+            this.btnPClose.Location = new System.Drawing.Point(1, 133);
+            this.btnPClose.Name = "btnPClose";
+            this.btnPClose.Size = new System.Drawing.Size(120, 45);
+            this.btnPClose.TabIndex = 3;
+            this.btnPClose.Text = "CLOSE";
+            this.btnPClose.UseVisualStyleBackColor = false;
+            this.btnPClose.Click += new System.EventHandler(this.btnPClose_Click);
             // 
-            // btnMDelete
+            // btnPDelete
             // 
-            this.btnMDelete.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            this.btnMDelete.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnMDelete.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.btnMDelete.Location = new System.Drawing.Point(1, 90);
-            this.btnMDelete.Name = "btnMDelete";
-            this.btnMDelete.Size = new System.Drawing.Size(120, 45);
-            this.btnMDelete.TabIndex = 2;
-            this.btnMDelete.Text = "DELETE";
-            this.btnMDelete.UseVisualStyleBackColor = false;
+            this.btnPDelete.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+            this.btnPDelete.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnPDelete.ForeColor = System.Drawing.SystemColors.ButtonFace;
+            this.btnPDelete.Location = new System.Drawing.Point(1, 90);
+            this.btnPDelete.Name = "btnPDelete";
+            this.btnPDelete.Size = new System.Drawing.Size(120, 45);
+            this.btnPDelete.TabIndex = 2;
+            this.btnPDelete.Text = "DELETE";
+            this.btnPDelete.UseVisualStyleBackColor = false;
+            this.btnPDelete.Click += new System.EventHandler(this.btnPDelete_Click);
             // 
             // label1
             // 
@@ -136,32 +139,35 @@ namespace AssignmentEntrySystem
             this.label1.TabIndex = 9;
             this.label1.Text = "MANAGE PROGRAM";
             // 
-            // btnMEdit
+            // btnPEdit
             // 
-            this.btnMEdit.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            this.btnMEdit.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnMEdit.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.btnMEdit.Location = new System.Drawing.Point(1, 46);
-            this.btnMEdit.Name = "btnMEdit";
-            this.btnMEdit.Size = new System.Drawing.Size(120, 45);
-            this.btnMEdit.TabIndex = 1;
-            this.btnMEdit.Text = "EDIT";
-            this.btnMEdit.UseVisualStyleBackColor = false;
+            this.btnPEdit.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+            this.btnPEdit.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnPEdit.ForeColor = System.Drawing.SystemColors.ButtonFace;
+            this.btnPEdit.Location = new System.Drawing.Point(1, 46);
+            this.btnPEdit.Name = "btnPEdit";
+            this.btnPEdit.Size = new System.Drawing.Size(120, 45);
+            this.btnPEdit.TabIndex = 1;
+            this.btnPEdit.Text = "EDIT";
+            this.btnPEdit.UseVisualStyleBackColor = false;
+            this.btnPEdit.Click += new System.EventHandler(this.btnPEdit_Click);
             // 
-            // btnMAdd
+            // btnPAdd
             // 
-            this.btnMAdd.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            this.btnMAdd.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnMAdd.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.btnMAdd.Location = new System.Drawing.Point(1, 1);
-            this.btnMAdd.Name = "btnMAdd";
-            this.btnMAdd.Size = new System.Drawing.Size(120, 45);
-            this.btnMAdd.TabIndex = 0;
-            this.btnMAdd.Text = "ADD";
-            this.btnMAdd.UseVisualStyleBackColor = false;
+            this.btnPAdd.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+            this.btnPAdd.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnPAdd.ForeColor = System.Drawing.SystemColors.ButtonFace;
+            this.btnPAdd.Location = new System.Drawing.Point(1, 1);
+            this.btnPAdd.Name = "btnPAdd";
+            this.btnPAdd.Size = new System.Drawing.Size(120, 45);
+            this.btnPAdd.TabIndex = 0;
+            this.btnPAdd.Text = "ADD";
+            this.btnPAdd.UseVisualStyleBackColor = false;
+            this.btnPAdd.Click += new System.EventHandler(this.btnPAdd_Click);
             // 
             // txtDuration
             // 
+            this.txtDuration.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtDuration.Location = new System.Drawing.Point(167, 90);
             this.txtDuration.Name = "txtDuration";
             this.txtDuration.Size = new System.Drawing.Size(215, 27);
@@ -169,6 +175,7 @@ namespace AssignmentEntrySystem
             // 
             // txtProgramCode
             // 
+            this.txtProgramCode.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtProgramCode.Location = new System.Drawing.Point(167, 59);
             this.txtProgramCode.Name = "txtProgramCode";
             this.txtProgramCode.Size = new System.Drawing.Size(215, 27);
@@ -176,6 +183,7 @@ namespace AssignmentEntrySystem
             // 
             // txtProgramName
             // 
+            this.txtProgramName.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtProgramName.Location = new System.Drawing.Point(167, 28);
             this.txtProgramName.Name = "txtProgramName";
             this.txtProgramName.Size = new System.Drawing.Size(215, 27);
@@ -213,7 +221,7 @@ namespace AssignmentEntrySystem
             // 
             // groupBox1
             // 
-            this.groupBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.groupBox1.BackColor = System.Drawing.Color.Khaki;
             this.groupBox1.Controls.Add(this.txtDescription);
             this.groupBox1.Controls.Add(this.label7);
             this.groupBox1.Controls.Add(this.txtDuration);
@@ -228,14 +236,14 @@ namespace AssignmentEntrySystem
             this.groupBox1.Size = new System.Drawing.Size(393, 180);
             this.groupBox1.TabIndex = 10;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Provide UserName and Password";
+            this.groupBox1.Text = "Provide all the Information";
             // 
             // panel1
             // 
-            this.panel1.Controls.Add(this.btnMClose);
-            this.panel1.Controls.Add(this.btnMDelete);
-            this.panel1.Controls.Add(this.btnMEdit);
-            this.panel1.Controls.Add(this.btnMAdd);
+            this.panel1.Controls.Add(this.btnPClose);
+            this.panel1.Controls.Add(this.btnPDelete);
+            this.panel1.Controls.Add(this.btnPEdit);
+            this.panel1.Controls.Add(this.btnPAdd);
             this.panel1.Location = new System.Drawing.Point(411, 63);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(122, 180);
@@ -246,7 +254,7 @@ namespace AssignmentEntrySystem
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
-            this.ClientSize = new System.Drawing.Size(544, 471);
+            this.ClientSize = new System.Drawing.Size(542, 471);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.dgvProgramDetails);
             this.Controls.Add(this.label1);
@@ -271,11 +279,11 @@ namespace AssignmentEntrySystem
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.DataGridView dgvProgramDetails;
-        private System.Windows.Forms.Button btnMClose;
-        private System.Windows.Forms.Button btnMDelete;
+        private System.Windows.Forms.Button btnPClose;
+        private System.Windows.Forms.Button btnPDelete;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Button btnMEdit;
-        private System.Windows.Forms.Button btnMAdd;
+        private System.Windows.Forms.Button btnPEdit;
+        private System.Windows.Forms.Button btnPAdd;
         private System.Windows.Forms.TextBox txtDuration;
         private System.Windows.Forms.TextBox txtProgramCode;
         private System.Windows.Forms.TextBox txtProgramName;
